@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+    background: linear-gradient(#F48FB1 0%, #BA68C8 100%);
+    background-repeat: no-repeat;
+
+}
+
+img {
+    height: 200px;
+}
+
+#gio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.line {
+    height: 6px;
+    background-color: #212121;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: darkturquoise;
+    display: inline;
+    position: absolute;
+    z-index: 10px;
+    
+}
+
+#about {
+    text-align: center;
+
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.picture{
+    border-color: gainsboro;
+    border-width: medium;
+}
+
+#Contact iframe{
+    width: 100%
+        }
+
+#Mywork{
+    text-decoration-color: aqua;
+    text-decoration-style: solid;
+    text-decoration: inherit;
+    font-family: fantasy;
+    }
+
+img{
+    width: 400px;
+    border-color: darkgrey;
+    border-width: thick;
+    }
